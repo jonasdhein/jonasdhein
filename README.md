@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.univates.br/diplomados/media/noticias_responsivo/21236/jonas-dhein-e-fabricio-pretto-1504544566.0477_450_300.jpg"  />
+<img align="right" height="150" src="https://www.univates.br/diplomados/media/noticias_responsivo/21236/diplomado-em-sistemas-de-informacao-jonas-dhein-1504544566.2954_450_300.jpg"  />
 
 ###
 
