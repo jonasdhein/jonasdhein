@@ -44,14 +44,10 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/jonasdhein/jonasdhein/5351e7872c866a20553f7664076c93b5005d7ae4/snake.svg" alt="Snake animation" />
+![snake svg](https://github.com/jonasdhein/jonasdhein/blob/output/snake.svg)
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jonasdhein">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jonasdhein&unique={true|1|on|yes})
 
 ###
