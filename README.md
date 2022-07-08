@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/jonasdhein/jonasdhein/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/jonasdhein/jonasdhein/5351e7872c866a20553f7664076c93b5005d7ae4/snake.svg" alt="Snake animation" />
 
 ###
 
