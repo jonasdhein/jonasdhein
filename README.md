@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.univates.br/diplomados/media/noticias_responsivo/21236/diplomado-em-sistemas-de-informacao-jonas-dhein-1504544566.2954_450_300.jpg"  />
+<img align="right" height="150" src="https://media-exp1.licdn.com/dms/image/C5603AQGa3dGK4Ff8DA/profile-displayphoto-shrink_200_200/0/1517013485240?e=1671062400&v=beta&t=vFfSGgj9CPPBHLzb_VD_kuqyVJastP50HLeNhaprbvM"  />
 
 ###
 
